@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\update_earned_points.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\update_earned_points.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\view_wallets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\view_wallets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\main_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\main_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\cashback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\cashback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|d:\\my stuff\\education\\database project ms3\\databasems3\\databasems3\\admin_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\admin_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\customer_main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\customer_main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\subscription_plan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\subscription_plan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\shops.aspx.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\shops.aspx.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\shops.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\shops.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\service_plans.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\service_plans.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\redeem_voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\redeem_voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\recharge_balance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\recharge_balance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\cashback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\cashback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\service_plans.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\service_plans.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\redeem_voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\redeem_voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\recharge_balance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\recharge_balance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\subscription_plan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\subscription_plan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\show_accepted_payments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\show_accepted_payments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\service_plans.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\service_plans.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\top_successful_payments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\top_successful_payments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\getticket_account_customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\getticket_account_customer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\getremaining_plan_amount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\getremaining_plan_amount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\getextra_plan_amount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\getextra_plan_amount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\getaccount_highest_voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\getaccount_highest_voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\admin_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\admin_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\adminxorcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\adminxorcustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\view_cashback_transactions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\view_cashback_transactions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\check_mobile-wallet_link.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\check_mobile-wallet_link.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\show_average_transaction_amount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\show_average_transaction_amount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\view_payment_transactions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\view_payment_transactions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\view_e-shops.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\view_e-shops.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\show_cashback_by_plan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\show_cashback_by_plan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\databasems3\\show_average_transaction_amount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B6DA9B-7BF7-4A8D-BE13-AEEC7456C857}|DatabaseMS3\\DatabaseMS3.csproj|solutionrelative:databasems3\\show_average_transaction_amount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cashback.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Cashback.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Cashback.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Cashback.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Cashback.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:39:34.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin_login.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\admin_login.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\admin_login.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\admin_login.aspx",
+              "RelativeToolTip": "DatabaseMS3\\admin_login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T15:50:34.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main_admin.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\main_admin.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\main_admin.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\main_admin.aspx",
+              "RelativeToolTip": "DatabaseMS3\\main_admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T14:17:38.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update_Earned_Points.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Update_Earned_Points.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Update_Earned_Points.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Update_Earned_Points.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Update_Earned_Points.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T14:08:57.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service_Plans.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Service_Plans.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Service_Plans.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Service_Plans.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Service_Plans.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:41:38.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Customer.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Customer.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Customer.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Customer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:31:39.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View_Wallets.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\View_Wallets.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\View_Wallets.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\View_Wallets.aspx",
+              "RelativeToolTip": "DatabaseMS3\\View_Wallets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T14:28:12.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shops.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Shops.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Shops.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Shops.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Shops.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:30:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shops.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Shops.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Shops.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Shops.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Shops.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:32:16.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Customer.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Customer.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Customer.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Customer.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:40:33.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer_main.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Customer_main.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Customer_main.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Customer_main.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Customer_main.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:46:04.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Redeem_Voucher.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Redeem_Voucher.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Redeem_Voucher.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Redeem_Voucher.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Redeem_Voucher.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:41:17.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Subscription_Plan.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Subscription_Plan.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Subscription_Plan.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Subscription_Plan.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Subscription_Plan.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:41:48.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recharge_Balance.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Recharge_Balance.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Recharge_Balance.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Recharge_Balance.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Recharge_Balance.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:41:07.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service_Plans.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Service_Plans.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Service_Plans.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Service_Plans.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Service_Plans.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:32:11.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Subscription_Plan.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Subscription_Plan.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Subscription_Plan.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Subscription_Plan.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Subscription_Plan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:32:37.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Redeem_Voucher.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Redeem_Voucher.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Redeem_Voucher.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Redeem_Voucher.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Redeem_Voucher.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:32:04.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Recharge_Balance.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Recharge_Balance.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Recharge_Balance.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Recharge_Balance.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Recharge_Balance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:31:49.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cashback.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Cashback.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Cashback.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Cashback.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Cashback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T16:31:18.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Service_Plans.aspx.designer.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Service_Plans.aspx.designer.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Service_Plans.aspx.designer.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Service_Plans.aspx.designer.cs",
+              "RelativeToolTip": "DatabaseMS3\\Service_Plans.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:30:24.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Top_Successful_Payments.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Top_Successful_Payments.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Top_Successful_Payments.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Top_Successful_Payments.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Top_Successful_Payments.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:15:05.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetTicket_Account_Customer.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\GetTicket_Account_Customer.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\GetTicket_Account_Customer.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\GetTicket_Account_Customer.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\GetTicket_Account_Customer.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:14:50.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Show_Accepted_Payments.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Show_Accepted_Payments.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Show_Accepted_Payments.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Show_Accepted_Payments.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Show_Accepted_Payments.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T14:02:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetRemaining_plan_amount.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\GetRemaining_plan_amount.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\GetRemaining_plan_amount.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\GetRemaining_plan_amount.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\GetRemaining_plan_amount.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:14:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetExtra_plan_amount.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\GetExtra_plan_amount.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\GetExtra_plan_amount.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\GetExtra_plan_amount.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\GetExtra_plan_amount.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:14:07.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAccount_Highest_Voucher.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\GetAccount_Highest_Voucher.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\GetAccount_Highest_Voucher.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\GetAccount_Highest_Voucher.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\GetAccount_Highest_Voucher.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:06:33.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\login.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\login.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\login.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\login.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:02:42.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "admin_login.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\admin_login.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\admin_login.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\admin_login.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\admin_login.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:53:19.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "adminXORcustomer.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\adminXORcustomer.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\adminXORcustomer.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\adminXORcustomer.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\adminXORcustomer.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:51:24.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Global.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Global.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Global.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Global.cs",
+              "RelativeToolTip": "DatabaseMS3\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:43:27.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "View_Cashback_Transactions.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\View_Cashback_Transactions.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\View_Cashback_Transactions.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\View_Cashback_Transactions.aspx",
+              "RelativeToolTip": "DatabaseMS3\\View_Cashback_Transactions.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T14:11:04.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Check_Mobile-Wallet_Link.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Check_Mobile-Wallet_Link.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Check_Mobile-Wallet_Link.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Check_Mobile-Wallet_Link.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Check_Mobile-Wallet_Link.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T13:57:10.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "View_E-shops.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\View_E-shops.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\View_E-shops.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\View_E-shops.aspx",
+              "RelativeToolTip": "DatabaseMS3\\View_E-shops.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T14:24:26.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Show_Average_Transaction_Amount.aspx.cs",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Show_Average_Transaction_Amount.aspx.cs",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Show_Average_Transaction_Amount.aspx.cs",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Show_Average_Transaction_Amount.aspx.cs",
+              "RelativeToolTip": "DatabaseMS3\\Show_Average_Transaction_Amount.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:12:54.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "View_Payment_Transactions.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\View_Payment_Transactions.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\View_Payment_Transactions.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\View_Payment_Transactions.aspx",
+              "RelativeToolTip": "DatabaseMS3\\View_Payment_Transactions.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T14:26:54.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Show_Cashback_by_Plan.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Show_Cashback_by_Plan.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Show_Cashback_by_Plan.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Show_Cashback_by_Plan.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Show_Cashback_by_Plan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T14:07:15.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Show_Average_Transaction_Amount.aspx",
+              "DocumentMoniker": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Show_Average_Transaction_Amount.aspx",
+              "RelativeDocumentMoniker": "DatabaseMS3\\Show_Average_Transaction_Amount.aspx",
+              "ToolTip": "D:\\My Stuff\\Education\\Database Project MS3\\DatabaseMS3\\DatabaseMS3\\Show_Average_Transaction_Amount.aspx",
+              "RelativeToolTip": "DatabaseMS3\\Show_Average_Transaction_Amount.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T11:12:43.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
